@@ -6,7 +6,7 @@ using System.Web;
 
 namespace ErikerTejidos.Models
 {
-    public class product
+    public class Product
     {
         [ScaffoldColumn(false)]
         public int ProductID { get; set; }
